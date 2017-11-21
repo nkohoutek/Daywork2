@@ -1,0 +1,33 @@
+What is the div tag and why is it important? What is the difference between div and span elements?
+-the div tag is a container unit and divides the document in section or division.
+It is used to group HTML-Elements. Because it is a block-level element it always starts on a new line and takes full width.
+
+What is the purpose of semantic elements in HTML5?
+
+Please tell to your partner the name of an HTML5 Semantic element and he/she needs to describe it, then switch the roles.
+
+Why are Meta Tags important and what can you do with Meta Tags?
+With meta tags you can give informations about your site,
+which search machines like Google will use, to show despriptions
+
+Is it possible to have a functional Web page without links?
+
+
+Why is the alt tag important for the use of images?
+
+How many list types do we have in HTML? Describe them.
+
+Could we make an entire page layout using tables? How?
+
+What is the purpose of forms in HTML?
+
+What can you achieve using an iframe element?
+
+Why are comments important in well-written code?
+
+How could you play audio and video in HTML file?
+
+What is HTML Local Storage?
+
+
+
